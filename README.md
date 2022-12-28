@@ -2,25 +2,26 @@
 
 <h3> :man: &nbsp;About Me</h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🤔 &nbsp; Exploring new technologies and expanding my knowledge in software engineering.
+- 🎓 &nbsp; Graduated in **Information Systems** from <a href="https://www.unisinos.br">Unisinos</a> and Post-Graduated in **Business Intelligence and Analytics** from <a href="https://www.fadergs.edu.br/">Fadergs</a>.
+- 💼 &nbsp; Working as a **Software Engineering Lead** at <a href="https://www.cwi.com.br">CWI Software</a>.
+- 🌱 &nbsp; Expanding my **Flutter** knowledge in personal and study projects.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Aplicações e Dados**
+**Stacks and Databases**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C#](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDb](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongodb)
+  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
+  ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql)
+  
 
 **Utilidades**
 

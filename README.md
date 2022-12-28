@@ -52,6 +52,7 @@
 
 <h3> :earth_americas: &nbsp;Where to Find Me: </h3> 
 
-[![Linkedin: Ezequiel Oliveira](https://img.shields.io/badge/-Ezequiel Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequieloliveira/)](https://www.linkedin.com/in/ezequieloliveira/)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Ezequiel Oliveira](https://img.shields.io/badge/-ezequieloliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequieloliveira/)](https://www.linkedin.com/in/ezequieloliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-ezequiel.oliveira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequiel.oliveira@gmail.com)](mailto:ezequiel.oliveira@gmail.com)
 [![GitHub Ezequiel Oliveira]( https://img.shields.io/github/followers/ezequieloliveira87?label=follow&style=social)](https://github.com/ezequieloliveira87)

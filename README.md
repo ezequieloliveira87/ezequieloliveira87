@@ -45,7 +45,6 @@
 <br/>
 
 <h3> :bar_chart: &nbsp;GitHub Stats </h3>
-## **GitHub Stats**
 
 <a href="https://github.com/ezequieloliveira87">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequieloliveira87&hide_langs_below=1" />

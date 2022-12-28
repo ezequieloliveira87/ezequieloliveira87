@@ -18,7 +18,7 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MongoDb](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongodb)
-  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
+  ![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql)
   

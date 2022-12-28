@@ -44,6 +44,7 @@
   
 <br/>
 
+<h3> :bar_chart: &nbsp;GitHub Stats </h3>
 ## **GitHub Stats**
 
 <a href="https://github.com/ezequieloliveira87">

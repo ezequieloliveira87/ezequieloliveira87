@@ -61,3 +61,7 @@
 [![Linkedin: Ezequiel Oliveira](https://img.shields.io/badge/-ezequieloliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequieloliveira/)](https://www.linkedin.com/in/ezequieloliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-ezequiel.oliveira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequiel.oliveira@gmail.com)](mailto:ezequiel.oliveira@gmail.com)
 [![GitHub Ezequiel Oliveira]( https://img.shields.io/github/followers/ezequieloliveira87?label=follow&style=social)](https://github.com/ezequieloliveira87)
+
+
+
+https://app.mural.co/t/assessment9989/m/assessment9989/1686253500189/d365ca0be28eb98c26afe59b8aba11c39416b095?sender=u29ea144d7b7fa6b1a94b4153

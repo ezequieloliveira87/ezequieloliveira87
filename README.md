@@ -23,37 +23,6 @@
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql)
   
 
-**Utilities**
-
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Development Tools**
-
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  
-<br/>
-
-<h3> :bar_chart: &nbsp;GitHub Stats </h3>
-
-<a href="https://github.com/ezequieloliveira87">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequieloliveira87&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/ezequieloliveira87">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezequieloliveira87&show_icons=true&line_height=27" alt="**Ezequiel Oliveira** github stats"/>
-</a>
-
 <br/>
 
 <h3> :earth_americas: &nbsp;Where to Find Me: </h3> 
